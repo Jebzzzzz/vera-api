@@ -1,1 +1,30 @@
-{} 
+{
+    "standarduser": {
+        "id": "a1834fc5-90fd-5a6a-bd8c-be26da91fe1d",
+        "fullName": "Standard User",
+        "hash": "$2b$12$V3F4lXtCwco3LP/Kw4vqpOtYPniUPz3sjknMK1nS/1G.0fAeOZaxe",
+        "userLevel": 0,
+        "createdAt": 1774148746
+    },
+    "moderateuser": {
+        "id": "1f1d137a-c43c-5e92-8412-4623728c3179",
+        "fullName": "Moderate User",
+        "hash": "$2b$12$Hz65.YxfiydPbBgOaVldeeNs1zpw1BRvmlnLDo9TwGWnDzv1Jaf9m",
+        "userLevel": 1,
+        "createdAt": 1774148823
+    },
+    "admin": {
+        "id": "ae6c10d0-0b13-554c-b976-a05d8a18f0cc",
+        "fullName": "Admin User",
+        "hash": "$2b$12$A92Rf7CXwgf5DrK8JR5zr.CNLFefhOJq4hPVSY5Snd8mQPIohepf.",
+        "userLevel": 2,
+        "createdAt": 1774148846
+    },
+    "superadmin": {
+        "id": "e48cddda-f3b8-5ca2-9fc5-28be55da99b0",
+        "fullName": "Super Admin",
+        "hash": "$2b$12$FnqLEPOC1gB0VOL9/V2ZZO6ufiIi5gqHSHMoGg/pEH5vN4llNRHt2",
+        "userLevel": 3,
+        "createdAt": 1774148883
+    }
+}
